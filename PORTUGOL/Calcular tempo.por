@@ -6,7 +6,8 @@ até o dia 01/01 do ano atual*/
 
 programa
 {
-	inteiro aa, da, ma, dias, qtd_anos_bis, a1, d1, m1
+	
+inteiro aa, da, ma, dias, qtd_anos_bis, a1, d1, m1
 
 	
 	funcao inicio()
@@ -39,14 +40,3 @@ programa
 		
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 620; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
